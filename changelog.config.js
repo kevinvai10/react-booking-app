@@ -26,7 +26,6 @@ module.exports = {
     scopes: [
         'utils',
         'Redux Modules',
-        'Redux Change Events',
         'Components',
         'Constants',
         'NPM',
